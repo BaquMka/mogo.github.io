@@ -252,16 +252,16 @@ h1, h2, h3, h4, h5, h6 {
     overflow: hidden;
 }
 .section--device {
-    background: url("/images/feauture/devices-bg.jpg") center no-repeat;
+    background-image: url("./images/feauture/devices-bg.jpg") center no-repeat;
     background-size: cover;
     padding-bottom: 0;
 }
 .section--whatpeoplesay {
-    background: url("/images/whatpeoplesay/clients-bg.jpg") center no-repeat;
+    background-image: url("./images/whatpeoplesay/clients-bg.jpg") center no-repeat;
     background-size: cover;
 }
 .section--map {
-    background: url("/images/map/map-bg.jpg") center no-repeat;
+    background-image: url("./images/map/map-bg.jpg") center no-repeat;
     background-size: cover;
 }
 .section__header {
